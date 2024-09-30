@@ -22,8 +22,8 @@ In the EarlyStoppingCallback change define the on_epoch_end funtion and define t
 Train the model
 ## PROGRAM
 
-### Name: V NAVEENKUMAR
-### Register Number: 212221230068
+### Name: Kersoan P
+### Register Number: 212221230050
 ```python
 import os
 import base64
